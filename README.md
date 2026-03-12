@@ -16,18 +16,8 @@
 - **Buscar restaurantes**   
 - **Avaliar restaurante**   
 - **Visualizar disponibilidade de mesas**  
-- **Visualizar cardápio do restaurante**  
-
-## **🛠️ Tecnologias Utilizadas**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-3383FF?style=for-the-badge&logo=keycdn&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
+- **Visualizar cardápio do restaurante**
+  
 ## **🚀 Como Rodar o Projeto**
 
 Este guia descreve os passos necessários para configurar e executar o projeto localmente. O projeto é dividido em **backend (api)** e **frontend**, que devem ser executados em terminais separados.
@@ -108,3 +98,12 @@ O Prisma Studio fornece uma interface gráfica para visualizar e editar os dados
     ```
     Isso abrirá uma nova aba no seu navegador, permitindo que você gerencie o banco de dados facilmente.
 
+## **🛠️ Tecnologias Utilizadas**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-3383FF?style=for-the-badge&logo=keycdn&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
