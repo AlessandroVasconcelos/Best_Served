@@ -3,7 +3,7 @@
 **Best Servd** é uma aplicação web que conecta restaurantes e clientes, permitindo o agendamento de mesas de forma prática e eficiente. O sistema possui três tipos de usuários com permissões específicas:  
 - **Cliente**: cadastra-se, busca restaurantes, faz reservas, além de avaliar estabelecimentos.  
 - **Restaurante**: cadastra seu estabelecimento, gerencia mesas, cardápio, horários e confirma ou cancela reservas.  
-- **Administrador**: gerencia toda a plataforma, aprova os cadastros dos restaurantes, visualiza os usuários cadastrados no sistema e garante a segurança geral da aplicação.
+- **Administrador**: gerencia toda a plataforma, aprova os cadastros dos restaurantes, visualiza os usuários cadastrados no sistema e garante a segurança geral da aplicação. 
 
 ## 📋 Funcionalidades Principais
 
